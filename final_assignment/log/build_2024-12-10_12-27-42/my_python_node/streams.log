@@ -1,0 +1,27 @@
+[3.463s] Invoking command in '/home/johan/Documents/final_assignment/src/my_python_node': PYTHONPATH=/home/johan/Documents/final_assignment/build/my_python_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_python_node build --build-base /home/johan/Documents/final_assignment/build/my_python_node/build install --record /home/johan/Documents/final_assignment/build/my_python_node/install.log --install-scripts $base/lib/my_python_node --single-version-externally-managed install_data
+[3.820s] running egg_info
+[3.820s] writing ../../build/my_python_node/my_python_node.egg-info/PKG-INFO
+[3.821s] writing dependency_links to ../../build/my_python_node/my_python_node.egg-info/dependency_links.txt
+[3.822s] writing entry points to ../../build/my_python_node/my_python_node.egg-info/entry_points.txt
+[3.822s] writing requirements to ../../build/my_python_node/my_python_node.egg-info/requires.txt
+[3.822s] writing top-level names to ../../build/my_python_node/my_python_node.egg-info/top_level.txt
+[3.975s] reading manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+[3.976s] writing manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+[3.976s] running build
+[3.976s] running build_py
+[3.977s] copying my_python_node/TSM_node.py -> /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node
+[3.994s] copying my_python_node/simple_node.py -> /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node
+[3.995s] running install
+[3.996s] running install_lib
+[3.998s] copying /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node/TSM_node.py -> /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node
+[3.999s] copying /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node/simple_node.py -> /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node
+[4.000s] byte-compiling /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node/TSM_node.py to TSM_node.cpython-38.pyc
+[4.004s] byte-compiling /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node/simple_node.py to simple_node.cpython-38.pyc
+[4.004s] running install_data
+[4.004s] running install_egg_info
+[4.006s] removing '/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info' (and everything under it)
+[4.007s] Copying ../../build/my_python_node/my_python_node.egg-info to /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info
+[4.039s] running install_scripts
+[4.066s] Installing simple_node = my_python_node.simple_node:mainTSM_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+[4.067s] writing list of installed files to '/home/johan/Documents/final_assignment/build/my_python_node/install.log'
+[4.119s] Invoked command in '/home/johan/Documents/final_assignment/src/my_python_node' returned '0': PYTHONPATH=/home/johan/Documents/final_assignment/build/my_python_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_python_node build --build-base /home/johan/Documents/final_assignment/build/my_python_node/build install --record /home/johan/Documents/final_assignment/build/my_python_node/install.log --install-scripts $base/lib/my_python_node --single-version-externally-managed install_data

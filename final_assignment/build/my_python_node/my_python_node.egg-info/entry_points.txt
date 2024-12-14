@@ -1,0 +1,5 @@
+[console_scripts]
+BRAM_node = my_python_node.Read_BRAM:main
+TSM_node = my_python_node.TSM_node:main
+simple_node = my_python_node.simple_node:main
+

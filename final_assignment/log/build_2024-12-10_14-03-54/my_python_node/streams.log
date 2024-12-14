@@ -1,0 +1,25 @@
+[0.782s] Invoking command in '/home/johan/Documents/final_assignment/src/my_python_node': PYTHONPATH=/home/johan/Documents/final_assignment/build/my_python_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_python_node build --build-base /home/johan/Documents/final_assignment/build/my_python_node/build install --record /home/johan/Documents/final_assignment/build/my_python_node/install.log --install-scripts $base/lib/my_python_node --single-version-externally-managed install_data
+[1.032s] running egg_info
+[1.033s] writing ../../build/my_python_node/my_python_node.egg-info/PKG-INFO
+[1.033s] writing dependency_links to ../../build/my_python_node/my_python_node.egg-info/dependency_links.txt
+[1.034s] writing entry points to ../../build/my_python_node/my_python_node.egg-info/entry_points.txt
+[1.034s] writing requirements to ../../build/my_python_node/my_python_node.egg-info/requires.txt
+[1.034s] writing top-level names to ../../build/my_python_node/my_python_node.egg-info/top_level.txt
+[1.077s] reading manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+[1.409s] writing manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+[1.409s] running build
+[1.409s] running build_py
+[1.409s] copying my_python_node/TSM_node.py -> /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node
+[1.586s] running install
+[1.588s] running install_lib
+[1.590s] copying /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node/TSM_node.py -> /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node
+[1.591s] byte-compiling /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node/TSM_node.py to TSM_node.cpython-38.pyc
+[1.596s] running install_data
+[1.597s] running install_egg_info
+[1.599s] removing '/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info' (and everything under it)
+[1.600s] Copying ../../build/my_python_node/my_python_node.egg-info to /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info
+[1.600s] running install_scripts
+[1.624s] Installing TSM_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+[1.687s] Installing simple_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+[1.688s] writing list of installed files to '/home/johan/Documents/final_assignment/build/my_python_node/install.log'
+[1.744s] Invoked command in '/home/johan/Documents/final_assignment/src/my_python_node' returned '0': PYTHONPATH=/home/johan/Documents/final_assignment/build/my_python_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_python_node build --build-base /home/johan/Documents/final_assignment/build/my_python_node/build install --record /home/johan/Documents/final_assignment/build/my_python_node/install.log --install-scripts $base/lib/my_python_node --single-version-externally-managed install_data

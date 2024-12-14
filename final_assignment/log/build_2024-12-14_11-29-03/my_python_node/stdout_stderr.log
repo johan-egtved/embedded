@@ -1,0 +1,30 @@
+running egg_info
+writing ../../build/my_python_node/my_python_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_python_node/my_python_node.egg-info/dependency_links.txt
+writing entry points to ../../build/my_python_node/my_python_node.egg-info/entry_points.txt
+writing requirements to ../../build/my_python_node/my_python_node.egg-info/requires.txt
+writing top-level names to ../../build/my_python_node/my_python_node.egg-info/top_level.txt
+reading manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_python_node/TSM_node.py -> /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node
+copying my_python_node/TSM_node_copy.py -> /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node
+copying my_python_node/Read_BRAM.py -> /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node
+running install
+running install_lib
+copying /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node/TSM_node.py -> /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node
+copying /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node/TSM_node_copy.py -> /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node
+copying /home/johan/Documents/final_assignment/build/my_python_node/build/lib/my_python_node/Read_BRAM.py -> /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node
+byte-compiling /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node/TSM_node.py to TSM_node.cpython-38.pyc
+byte-compiling /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node/TSM_node_copy.py to TSM_node_copy.cpython-38.pyc
+byte-compiling /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node/Read_BRAM.py to Read_BRAM.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/my_python_node/my_python_node.egg-info to /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info
+running install_scripts
+Installing BRAM_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+Installing TSM_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+Installing simple_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+writing list of installed files to '/home/johan/Documents/final_assignment/build/my_python_node/install.log'

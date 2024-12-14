@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: my-python-node
+Version: 0.0.0
+Summary: A simple Python node for ROS 2
+Home-page: UNKNOWN
+Maintainer: your_name
+Maintainer-email: your_email@example.com
+License: License declaration
+Description: UNKNOWN
+Platform: UNKNOWN

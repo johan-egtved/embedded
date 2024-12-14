@@ -1,0 +1,23 @@
+[0.487s] Invoking command in '/home/johan/Documents/final_assignment/src/my_python_node': PYTHONPATH=/home/johan/Documents/final_assignment/build/my_python_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_python_node build --build-base /home/johan/Documents/final_assignment/build/my_python_node/build install --record /home/johan/Documents/final_assignment/build/my_python_node/install.log --install-scripts $base/lib/my_python_node --single-version-externally-managed install_data
+[0.649s] running egg_info
+[0.650s] writing ../../build/my_python_node/my_python_node.egg-info/PKG-INFO
+[0.650s] writing dependency_links to ../../build/my_python_node/my_python_node.egg-info/dependency_links.txt
+[0.650s] writing entry points to ../../build/my_python_node/my_python_node.egg-info/entry_points.txt
+[0.650s] writing requirements to ../../build/my_python_node/my_python_node.egg-info/requires.txt
+[0.651s] writing top-level names to ../../build/my_python_node/my_python_node.egg-info/top_level.txt
+[0.677s] reading manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+[0.700s] writing manifest file '../../build/my_python_node/my_python_node.egg-info/SOURCES.txt'
+[0.700s] running build
+[0.700s] running build_py
+[0.701s] running install
+[0.702s] running install_lib
+[0.704s] running install_data
+[0.704s] running install_egg_info
+[0.707s] removing '/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info' (and everything under it)
+[0.707s] Copying ../../build/my_python_node/my_python_node.egg-info to /home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages/my_python_node-0.0.0-py3.8.egg-info
+[0.708s] running install_scripts
+[0.722s] Installing BRAM_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+[0.723s] Installing TSM_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+[0.723s] Installing simple_node script to /home/johan/Documents/final_assignment/install/my_python_node/lib/my_python_node
+[0.724s] writing list of installed files to '/home/johan/Documents/final_assignment/build/my_python_node/install.log'
+[0.749s] Invoked command in '/home/johan/Documents/final_assignment/src/my_python_node' returned '0': PYTHONPATH=/home/johan/Documents/final_assignment/build/my_python_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/johan/Documents/final_assignment/install/my_python_node/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_python_node build --build-base /home/johan/Documents/final_assignment/build/my_python_node/build install --record /home/johan/Documents/final_assignment/build/my_python_node/install.log --install-scripts $base/lib/my_python_node --single-version-externally-managed install_data
